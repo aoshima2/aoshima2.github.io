@@ -77,3 +77,5 @@ p {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.tab { margin-left: 40px; }
